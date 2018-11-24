@@ -1,0 +1,28 @@
+.section {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.section-group {
+	display: flex;
+	flex-direction: column;
+	height: 25%;
+	justify-content: space-around;
+	align-items: center;
+	width: 75%;
+}
+
+.header-text {
+	font-size: 50px;
+	font-weight: bold;
+	font-family: Karla-Regular;
+}
+
+.header-description {
+	font-family: Karla-Regular;
+	font-size: 20px;
+	text-align: center;
+}
